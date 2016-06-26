@@ -1,0 +1,1 @@
+libkosapi.so 32Î»¡£´Ó<aosp>/out/target/product/rk3399_firfly_aio_box/system/lib¸´ÖÆ
